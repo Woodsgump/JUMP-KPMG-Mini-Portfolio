@@ -1,0 +1,40 @@
+h1, p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border: orange;
+    border-style: double;
+}
+
+button {
+
+}
+
+.nav-item {
+    width: 300px;
+}
+
+.btn-primary {
+    width: 400px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: orange;
+    border-style: double;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+}
+
+.mt-5 {
+    background-color: rgba(62, 62, 138, 0.603);
+}
+
+#coding {
+    margin:auto;
+}
